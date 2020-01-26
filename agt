@@ -19,4 +19,6 @@ sudo systemctl start docker
 sudo docker-compose build
 sudo docker-compose up -d
 
+echo "Access the graphiqlapi from localhost:4000/graphql"
+
 
