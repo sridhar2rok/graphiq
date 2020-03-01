@@ -1,0 +1,4 @@
+docker run -it repo_name:latest /bin/ash
+docker rm -f container id
+docker rmi images_tab
+docker volume ls
